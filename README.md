@@ -1,6 +1,9 @@
 # Patrolling-Robot-using-ROS2-Navigation
 This GitHub repo presents an end semester project submission for the course "Robotic Operating Systems" which showcasing the implementation of a Patrol Robot in ROS2 Humble distribution.
 
+<img width="1373" height="862" alt="image" src="https://github.com/user-attachments/assets/db2f8ae1-380d-4aac-be49-e2a5c2b0aaa7" />
+
+
 This project features the following :
 ***
  * Creation of a 2-Wheel Differential drive robot using xacro files
